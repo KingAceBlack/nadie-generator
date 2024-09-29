@@ -619,7 +619,7 @@ app.frame('/NorthChoice1', (c) => {
 app.frame('/Gwyneth', (c) => {
   
   const baseUrl = "https://warpcast.com/~/compose";
-  const text = "I Lady Gwyneth Aldwin !attack north";
+  const text = "I Lady Gwyneth Aldwin !attack south";
   const embedUrls = [];
   embedUrls.push('https://nadie-hackhathon.vercel.app/api/Gwyneth');
   const SHARE_BY_USER = `${baseUrl}?text=${encodeURIComponent(text)}&embeds[]=${encodeURIComponent(embedUrls[0])}`;    
@@ -641,7 +641,7 @@ app.frame('/Gwyneth', (c) => {
 app.frame('/Bryndis', (c) => {
   
   const baseUrl = "https://warpcast.com/~/compose";
-  const text = "I Lady Bryndis Hawke !attack north";
+  const text = "I Lady Bryndis Hawke !attack south";
   const embedUrls = [];
   embedUrls.push('https://nadie-hackhathon.vercel.app/api/Bryndis');
   const SHARE_BY_USER = `${baseUrl}?text=${encodeURIComponent(text)}&embeds[]=${encodeURIComponent(embedUrls[0])}`;    
@@ -663,7 +663,7 @@ app.frame('/Bryndis', (c) => {
 app.frame('/Roderic', (c) => {
   
   const baseUrl = "https://warpcast.com/~/compose";
-  const text = "I Lord Roderic Thorne !attack north";
+  const text = "I Lord Roderic Thorne !attack south";
   const embedUrls = [];
   embedUrls.push('https://nadie-hackhathon.vercel.app/api/Roderic');
   const SHARE_BY_USER = `${baseUrl}?text=${encodeURIComponent(text)}&embeds[]=${encodeURIComponent(embedUrls[0])}`;    
@@ -722,7 +722,7 @@ app.frame('/NorthChoice2', (c) => {
 app.frame('/Eadric', (c) => {
   
   const baseUrl = "https://warpcast.com/~/compose";
-  const text = "I Sir Eadric Blackwood !attack north";
+  const text = "I Sir Eadric Blackwood !attack south";
   const embedUrls = [];
   embedUrls.push('https://nadie-hackhathon.vercel.app/api/Eadric');
   const SHARE_BY_USER = `${baseUrl}?text=${encodeURIComponent(text)}&embeds[]=${encodeURIComponent(embedUrls[0])}`;    
@@ -744,7 +744,7 @@ app.frame('/Eadric', (c) => {
 app.frame('/Edwin', (c) => {
   
   const baseUrl = "https://warpcast.com/~/compose";
-  const text = "I Sir Edwin Frostshield !attack north";
+  const text = "I Sir Edwin Frostshield !attack south";
   const embedUrls = [];
   embedUrls.push('https://nadie-hackhathon.vercel.app/api/Edwin');
   const SHARE_BY_USER = `${baseUrl}?text=${encodeURIComponent(text)}&embeds[]=${encodeURIComponent(embedUrls[0])}`;    
@@ -766,7 +766,7 @@ app.frame('/Edwin', (c) => {
 app.frame('/Eric', (c) => {
   
   const baseUrl = "https://warpcast.com/~/compose";
-  const text = "I Sir Eric Greyvein !attack north";
+  const text = "I Sir Eric Greyvein !attack south";
   const embedUrls = [];
   embedUrls.push('https://nadie-hackhathon.vercel.app/api/Eric');
   const SHARE_BY_USER = `${baseUrl}?text=${encodeURIComponent(text)}&embeds[]=${encodeURIComponent(embedUrls[0])}`;    
@@ -828,7 +828,7 @@ app.frame('/NorthChoice3', (c) => {
 app.frame('/Gregorius', (c) => {
   
   const baseUrl = "https://warpcast.com/~/compose";
-  const text = "I Sir Gregorius Heder !attack north";
+  const text = "I Sir Gregorius Heder !attack south";
   const embedUrls = [];
   embedUrls.push('https://nadie-hackhathon.vercel.app/api/Gregorius');
   const SHARE_BY_USER = `${baseUrl}?text=${encodeURIComponent(text)}&embeds[]=${encodeURIComponent(embedUrls[0])}`;    
@@ -850,7 +850,7 @@ app.frame('/Gregorius', (c) => {
 app.frame('/Alistair', (c) => {
   
   const baseUrl = "https://warpcast.com/~/compose";
-  const text = "I Sir Alistair Ironheart !attack north";
+  const text = "I Sir Alistair Ironheart !attack south";
   const embedUrls = [];
   embedUrls.push('https://nadie-hackhathon.vercel.app/api/Alistair');
   const SHARE_BY_USER = `${baseUrl}?text=${encodeURIComponent(text)}&embeds[]=${encodeURIComponent(embedUrls[0])}`;    
@@ -872,7 +872,7 @@ app.frame('/Alistair', (c) => {
 app.frame('/Cedric', (c) => {
   
   const baseUrl = "https://warpcast.com/~/compose";
-  const text = "I Sir Cedric Stonehelm !attack north";
+  const text = "I Sir Cedric Stonehelm !attack south";
   const embedUrls = [];
   embedUrls.push('https://nadie-hackhathon.vercel.app/api/Cedric');
   const SHARE_BY_USER = `${baseUrl}?text=${encodeURIComponent(text)}&embeds[]=${encodeURIComponent(embedUrls[0])}`;    
